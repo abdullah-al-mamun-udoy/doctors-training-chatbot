@@ -30,7 +30,7 @@ export default function HomePage() {
             </span>
           </div>
           <h1 className="text-4xl md:text-6xl font-display text-medical-green glow-text leading-tight">
-            MedTrain
+            Doctors-Training-Chatbot
           </h1>
           <p className="text-medical-text opacity-70 mt-3 text-lg font-mono">
             Select a patient case to begin your diagnostic interview
